@@ -1,7 +1,5 @@
 # Cepheid-Wesenheit-Analysis
 
-# Cepheid Wesenheit Index Analysis
-
 ## Overview
 
 This repository contains code and analysis for estimating the period-luminosity relationship of OGLE-III classical Cepheids using the Wesenheit index. Cepheids are valuable astronomical objects for distance measurement, and the Wesenheit index provides an advantage by being insensitive to extinction.
